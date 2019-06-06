@@ -1,7 +1,3 @@
-# HomeWork1_JAVA2
-First HomeWork - GeekBrains
-I have created two new Classes: Team and Course, based on Competitor, Obstacle. 
-
 1. Разобраться с имеющимся кодом;
 2. Добавить класс Team, который будет содержать название команды, массив из четырех участников
  (в конструкторе можно сразу указыватьвсех участников ),
